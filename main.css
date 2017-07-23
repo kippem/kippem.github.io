@@ -1,6 +1,8 @@
 body{
   font: 15px times; 
   text-align: center;
+  Margin-left: 30%;
+  margin-right: 30%;
   text-wrap: wrap;
 }
 
