@@ -1,11 +1,11 @@
 body{
   font: 15px times; 
   text-align: center;
+  text-wrap: wrap;
 }
 
 #myNameIs{font: 72px;
     font-weight: bold;
-    bottom-border: solid 2px black;
   border-radius: 20px;
   padding: 15px;
 }
@@ -16,13 +16,24 @@ body{
 }
 #profile{
 }
-h1{
 
-  #bold{ font-weight: bold;
+  #bold{ 
+    font-weight: bold;
+    font: 16px
   }
   
-  #Header{ font-weight: Bold
+  #Header{ 
+    font: 26px;
+    font-weight: Bold
   }
 
-  #content{ text-align: left;
+  #content{ 
+    text-align: left;
     margin: 16px
+      
+}
+
+#date{ float: Right;
+}
+
+#company{ float: left;
