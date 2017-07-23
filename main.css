@@ -3,7 +3,7 @@ body{
   text-align: center;
 }
 
-#myNameIs{
+#myNameIs{font: 46px;
     font-weight: bold;
     text-align:Center;
   border-radius: 20px;
