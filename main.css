@@ -3,7 +3,7 @@ body{
   text-align: center;
 }
 
-#myNameIs{font: 46px;
+#myNameIs{font: 72px;
     font-weight: bold;
     text-align:Center;
   border-radius: 20px;
@@ -11,8 +11,15 @@ body{
 }
 
 #smile{
-    float: left;
+    float: right;
+  heigh: 300px;
 }
 #profile{
 }
 h1{
+
+  #schhol{ font-weight: bold;
+  }
+  
+  #Header{ font-weight: Bold
+  }
