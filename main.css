@@ -4,7 +4,8 @@ body{
   text-align: center;
   Margin-left: 30%;
   margin-right: 30%;
-  text-wrap: wrap;
+  flex-wrap: wrap;
+  display: flex;
 }
 
 #myNameIs{font: 72px;
