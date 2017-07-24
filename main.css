@@ -1,6 +1,6 @@
 body{
   font: 15px times; 
-  text-align: center;
+  text-align: left;
   Margin-left: 30%;
   margin-right: 30%;
   flex-wrap: wrap;
@@ -24,7 +24,7 @@ body{
 
   #bold{ 
     font-weight: bold;
-    font: 16px
+    font: 22px
   }
   
   #Header{ 
