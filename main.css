@@ -5,7 +5,6 @@ body{
   Margin-left: 30%;
   margin-right: 30%;
   flex-wrap: wrap;
-  display: flex;
 }
 
 #myNameIs{font: 72px;
