@@ -1,5 +1,3 @@
-head{display: flex;
-}
 body{
   background:FILE_000.jpeg;
   font: 15px times; 
@@ -9,6 +7,9 @@ body{
   flex-wrap: wrap;
 }
 
+#safeSpace{ margin-left: 250; 
+  margin-right: 250;
+}
 #myNameIs{font: 72px;
     font-weight: bold;
   border-radius: 20px;
