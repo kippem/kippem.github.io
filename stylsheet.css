@@ -1,0 +1,38 @@
+p{
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  text-align: center;
+  border-bottom: solid #000000
+}
+h2{
+  border-bottom: solid #000000
+}
+h4 {
+  text-align: center;
+}
+.col-sm-2 left{
+  color: red;
+  margin: 0px;
+  padding:0px;
+}
+.col-sm-8 center{
+  color: blue;
+  margin: 0px;
+  padding:0px;
+}
+.col-sm-2 right{
+  color: red;
+  margin: 0px;
+  padding:0px;
+}
+.bold{
+  font-weight: bold; font-size: 17px;
+}
+.freeLance{
+  display: inline-block;
+}
+.test{
+  text-align: center;
+}
