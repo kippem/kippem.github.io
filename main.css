@@ -1,5 +1,4 @@
 body{
-  background:FILE_000.jpeg;
   font: 15px times; 
   text-align: center;
   Margin-left: 30%;
@@ -35,7 +34,7 @@ body{
 
   #content{ 
     text-align: left;
-    margin: 16px
+    margin: 04px
       
 }
 
